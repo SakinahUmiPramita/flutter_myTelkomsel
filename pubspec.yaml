@@ -1,0 +1,62 @@
+name: magang
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/Rectangle 21.png
+    - assets/images/Rectangle 22.png
+    - assets/images/Rectangle 23.png
+    - assets/images/Rectangle 24.png
+    - assets/images/Rectangle 25.png
+    - assets/images/Rectangle 36.png
+    - assets/images/Rectangle 38.png
+    - assets/images/Rectangle 40.png
+    - assets/images/ace.png
+    - assets/images/gayahidupsehat.png
+    - assets/images/infinix.png
+    - assets/images/ip15.png
+    - assets/images/lari.jpg
+    - assets/images/oppo.jpg
+    - assets/images/pantaupesawat.jpg
+    - assets/images/ppdm.png
+    - assets/images/samsung.png
+    - assets/images/semua.jpg
+    - assets/images/solusikesehatan.png
+    - assets/images/travelokaflight.jpg
+    - assets/images/travelokahotel.jpg
+    - assets/images/vivo.png
+    - assets/images/voucherbelanja.png
+    - assets/images/ads.png
+    - assets/images/airport(2).png
+    - assets/images/akses7.png
+    - assets/images/cari.png
+    - assets/images/hadiah.png
+    - assets/images/hondawrv.png
+    - assets/images/image_26.png
+    - assets/images/makanan.jpg
+    - assets/images/nmax.png
+    - assets/images/plus.png
+    - assets/images/undiundihepi.png
+    - assets/images/revelation.jpg
+    - assets/images/ml.jpg
+    - assets/images/ff.jpg
+    - assets/images/codm.jpg
+    - assets/images/unipin.jpg
